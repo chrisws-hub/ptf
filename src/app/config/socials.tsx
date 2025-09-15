@@ -14,8 +14,6 @@
  * limitations under the License.
  */
 
-import { Github, Linkedin, Mail, } from 'lucide-react';
-import { TelegramIcon } from '../utils/TelegramIcon';
 import { Social } from '../types/types';
 
 export const socials: Social[] = [
